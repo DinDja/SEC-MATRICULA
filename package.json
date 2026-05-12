@@ -19,7 +19,9 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "jsdom": "^22.1.0",
+    "jsdom": "^22.1.0"
+  },
+  "devDependencies": {
     "puppeteer": "^21.0.0"
   }
 }
