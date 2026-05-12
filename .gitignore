@@ -46,6 +46,5 @@ dist/
 build/
 coverage/
 
-# Ignore local data file if generated
-*.jsonl
-*.json
+# Ignore local generated data files
+data/*.jsonl

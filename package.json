@@ -1,0 +1,25 @@
+{
+  "name": "scraper-sec-ba",
+  "version": "1.0.0",
+  "description": "Web scraper para dados de escolas da SEC-BA (Secretaria de Educação da Bahia)",
+  "main": "scraper_sec.js",
+  "scripts": {
+    "scrape": "node scraper_sec.js",
+    "scrape:dev": "node --trace-warnings scraper_sec.js",
+    "cli": "node cli.js",
+    "test": "node cli.js test 10",
+    "test:50": "node cli.js test 50"
+  },
+  "keywords": [
+    "web-scraper",
+    "sec-ba",
+    "bahia",
+    "escolas"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "jsdom": "^22.1.0",
+    "puppeteer": "^21.0.0"
+  }
+}
