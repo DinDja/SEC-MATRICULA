@@ -1,10 +1,10 @@
 {
-  "lastIndex": 1047,
-  "totalProcessadas": 1048,
-  "totalComServidores": 1028,
+  "lastIndex": 1134,
+  "totalProcessadas": 1135,
+  "totalComServidores": 1110,
   "totalErros": 0,
-  "totalServidores": 31331,
+  "totalServidores": 31868,
   "startedAt": "2026-05-12T17:45:51.224Z",
   "resumedAt": null,
-  "updatedAt": "2026-05-12T19:07:12.108Z"
+  "updatedAt": "2026-05-12T19:10:38.291Z"
 }

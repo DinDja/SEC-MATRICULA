@@ -45,6 +45,3 @@ __pycache__/
 dist/
 build/
 coverage/
-
-# Ignore local generated data files
-data/*.jsonl
